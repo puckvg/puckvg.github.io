@@ -8,9 +8,9 @@ Highly independent, curious, eager to learn and always looking to push boundarie
 - BSc in chemistry @ Univ. of Edinburgh, Sept. 2013 - May 2017
 
 ### Publications
-For up-to-date list check [Google Scholar](https://scholar.google.com/citations?user=sU_tjS0AAAAJ&hl=en&oi=ao)
 - L. Whalley, <u>P. van Gerwen</u>, J.M. Frost, S. Kim, S.N. Hood and A. Walsh, <i>J. Am. Chem. Soc.</i> 2021, 143 (24), 9123
 - S. Kim, S. Hood, <u>P. van Gerwen</u>, L. Whalley and A. Walsh, <i> J. Open Source Softw</i> 2020, 5 (47), 2102
+Follow me on [Google Scholar](https://scholar.google.com/citations?user=sU_tjS0AAAAJ&hl=en&oi=ao)
 
 ### Projects 
 - Organising seminars and events (TBC) on machine learning in chemistry (and beyond) @ [online](https://www.epfl.ch/schools/sb/research/isic/news-events/machine-learning-seminars-che-651-spring/)
