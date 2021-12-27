@@ -12,8 +12,8 @@ Highly independent, curious, eager to learn and always looking to push boundarie
 - S. Kim, S. Hood, <u>P. van Gerwen</u>, L. Whalley and A. Walsh, <i> J. Open Source Softw</i> 2020, 5 (47), 2102
 Follow me on [Google Scholar](https://scholar.google.com/citations?user=sU_tjS0AAAAJ&hl=en&oi=ao)
 
-### Projects 
-- Organising seminars and events (TBC) on machine learning in chemistry (and beyond) @ [online](https://www.epfl.ch/schools/sb/research/isic/news-events/machine-learning-seminars-che-651-spring/)
-
 ### Conferences and talks 
 - Invited poster presentation @ [ELLIS](https://moleculediscovery.github.io/workshop2021/), Dec. 2021
+
+### Misc projects
+- Organising seminars and events (TBC) on machine learning in chemistry (and beyond) @ [online](https://www.epfl.ch/schools/sb/research/isic/news-events/machine-learning-seminars-che-651-spring/)
