@@ -1,4 +1,4 @@
-Highly independent, curious, eager to learn and always looking to push boundaries. Puck is in the middle of her PhD in building physics-based machine-learning models to predict properties of molecules and chemical reactions. She also loves sports, right now climbing in particular. She is proud to be a woman in science and technology.
+Highly independent, curious, eager to learn and always looking to push boundaries. Puck is in the middle of her PhD in building physics-based machine-learning models to predict properties of molecules and chemical reactions. When she's not writing code, she can usually be found on a climbing wall. She is proud to be a woman in science and technology.
 
 ### CV 
 - PhD in chemistry @ [EPFL](https://www.epfl.ch/labs/lcmd/), started @ [Uni Basel](https://www.chemspacelab.org/), Oct. 2019 - Oct. 2024 (expected)
