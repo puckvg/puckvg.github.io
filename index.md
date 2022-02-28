@@ -11,7 +11,7 @@ Highly independent, curious, eager to learn and always looking to push boundarie
 
 ### Conferences and talks 
 - Invited poster presentation @ [AI & The Molecular World, Applied Machine Learning Days](https://appliedmldays.org/events/amld-epfl-2022/tracks/ai-the-molecular-world), March 2021
-- Invited poster presentation @ [ELLIS](https://moleculediscovery.github.io/workshop2021/), Dec. 2021
+- Invited poster presentation @ [ELLIS ML4Molecules](https://moleculediscovery.github.io/workshop2021/), Dec. 2021
 
 ### Misc projects
 - Organising seminars and events on machine learning in chemistry (and beyond) @ [online](https://www.epfl.ch/schools/sb/research/isic/news-events/machine-learning-seminars-che-651-spring/)
