@@ -2,7 +2,7 @@ Highly independent, curious, eager to learn and always looking to push boundarie
 
 ### CV 
 - PhD in chemistry @ [EPFL](https://www.epfl.ch/labs/lcmd/), started @ [Uni Basel](https://www.chemspacelab.org/), Oct. 2019 - Oct. 2024 (expected)
-- MSc in physics @ [ICL](https://www.imperial.ac.uk/materials/research/tsm/), Oct. 2018 - Oct. 2019
+- MSc in physics @ [Imperial College London](https://www.imperial.ac.uk/materials/research/tsm/), Oct. 2018 - Oct. 2019
 - BSc in chemistry @ Univ. of Edinburgh, Sept. 2013 - May 2017
 
 ### Publications
