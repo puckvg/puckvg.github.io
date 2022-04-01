@@ -15,3 +15,4 @@ Highly independent, curious, eager to learn and always looking to push boundarie
 
 ### Misc projects
 - Organising seminars and events on machine learning in chemistry (and beyond) @ [online](https://www.epfl.ch/schools/sb/research/isic/news-events/machine-learning-seminars-che-651-spring/)
+- Associate student of the [EPFL AI4Science initiative](https://www.epfl.ch/research/domains/cis/ai4science/) 
