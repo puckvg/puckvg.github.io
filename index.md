@@ -10,6 +10,7 @@ Highly independent, curious, eager to learn and always looking to push boundarie
 - S. Kim, S. Hood, <u>P. van Gerwen</u>, L. Whalley and A. Walsh, <i> J. Open Source Softw</i> 2020, 5 (47), 2102
 
 ### Conferences and talks 
+- Invited poster presentation @ [WATOC 2020](https://www.cheminst.ca/conference/watoc-2020/), July 2022
 - Invited poster presentation @ [AI & The Molecular World, Applied Machine Learning Days](https://appliedmldays.org/events/amld-epfl-2022/tracks/ai-the-molecular-world), March 2021
 - Invited poster presentation @ [ELLIS ML4Molecules](https://moleculediscovery.github.io/workshop2021/), Dec. 2021
 
