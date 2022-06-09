@@ -11,6 +11,8 @@ Highly independent, curious, eager to learn and always looking to push boundarie
 
 ### Conferences and talks 
 - Invited poster presentation @ [WATOC 2020](https://www.cheminst.ca/conference/watoc-2020/), July 2022
+- Invited talk at @[AI4Science day](https://www.epfl.ch/research/domains/cis/center-for-intelligent-systems-cis/events/ai4science-day/), July 2022
+- Poster presentation @ NCCR Catalysis Annual Meeting, June 2022
 - Invited poster presentation @ [AI & The Molecular World, Applied Machine Learning Days](https://appliedmldays.org/events/amld-epfl-2022/tracks/ai-the-molecular-world), March 2021
 - Invited poster presentation @ [ELLIS ML4Molecules](https://moleculediscovery.github.io/workshop2021/), Dec. 2021
 
