@@ -7,7 +7,7 @@ Highly independent, curious, eager to learn and always looking to push boundarie
 
 ### Publications
 - S. Gallarati, <u>P. van Gerwen</u>, R. Laplaza, S. Vela, A. Fabrizio and C. Corminboeuf, 2022, In press.
-- R. Fabregat*, <u>P. van Gerwen</u>*, M. Haeberle, F. Eisenbrand and C. Corminboeuf, <i> Mach. Learn. Sci. Tech.</i> 2022, In press.
+- R. Fabregat, <u>P. van Gerwen</u>, M. Haeberle, F. Eisenbrand and C. Corminboeuf, <i> Mach. Learn. Sci. Tech.</i> 2022, In press.
 - <u>P. van Gerwen</u>, A. Fabrizio, M. Wodrich and C. Corminboeuf, <i>Mach. Learn. Sci. Tech.</i> 2022, In press.
 - L. Whalley, <u>P. van Gerwen</u>, J.M. Frost, S. Kim, S.N. Hood and A. Walsh, <i>J. Am. Chem. Soc.</i> 2021, 143 (24), 9123
 - S. Kim, S. Hood, <u>P. van Gerwen</u>, L. Whalley and A. Walsh, <i> J. Open Source Softw</i> 2020, 5 (47), 2102
