@@ -7,8 +7,8 @@ Highly independent, curious, eager to learn and always looking to push boundarie
 
 ### Publications
 - S. Gallarati, <u>P. van Gerwen</u>, R. Laplaza, S. Vela, A. Fabrizio and C. Corminboeuf, 2022, In press.
-- R. Fabregat, <u>P. van Gerwen</u>, M. Haeberle, F. Eisenbrand and C. Corminboeuf, <i> Mach. Learn. Sci. Tech.</i> 2022, In press.
 - <u>P. van Gerwen</u>, A. Fabrizio, M. Wodrich and C. Corminboeuf, <i>Mach. Learn. Sci. Tech.</i> 2022, In press.
+- R. Fabregat, <u>P. van Gerwen</u>, M. Haeberle, F. Eisenbrand and C. Corminboeuf, <i> Mach. Learn. Sci. Tech.</i> 2022, 3, 035015 
 - L. Whalley, <u>P. van Gerwen</u>, J.M. Frost, S. Kim, S.N. Hood and A. Walsh, <i>J. Am. Chem. Soc.</i> 2021, 143 (24), 9123
 - S. Kim, S. Hood, <u>P. van Gerwen</u>, L. Whalley and A. Walsh, <i> J. Open Source Softw</i> 2020, 5 (47), 2102
 
@@ -25,5 +25,6 @@ Highly independent, curious, eager to learn and always looking to push boundarie
 - Organised seminars and events on machine learning in chemistry (and beyond) @ EPFL, 2021-2022 
 
 ### Supervised student projects
+- Master project on benchmarking representations and methods for ML of chemical reaction properties, 2022
 - Bachelor project on GPR of experimental reaction yields, 2022
 - Bachelor project on fragment-based approaches to machine learning of conceptual DFT descriptors, 2021
