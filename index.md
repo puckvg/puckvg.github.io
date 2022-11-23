@@ -7,13 +7,14 @@ Highly independent, curious, eager to learn and always looking to push boundarie
 
 ### Publications
 - S. Gallarati, <u>P. van Gerwen</u>, A. A. Schoepfer, R. Laplaza and C. Corminboeuf, <i>CHIMIA</i>, 2022, In press.
-- S. Gallarati, <u>P. van Gerwen</u>, R. Laplaza, S. Vela, A. Fabrizio and C. Corminboeuf, <i>Chem. Sci.</i>, 2022, In press.
+- S. Gallarati, <u>P. van Gerwen</u>, R. Laplaza, S. Vela, A. Fabrizio and C. Corminboeuf, <i>Chem. Sci.</i>, 2022.
 - <u>P. van Gerwen</u>, A. Fabrizio, M. Wodrich and C. Corminboeuf, <i>Mach. Learn. Sci. Tech.</i> 2022, 3, 045005
 - R. Fabregat, <u>P. van Gerwen</u>, M. Haeberle, F. Eisenbrand and C. Corminboeuf, <i> Mach. Learn. Sci. Tech.</i> 2022, 3, 035015 
 - L. Whalley, <u>P. van Gerwen</u>, J.M. Frost, S. Kim, S.N. Hood and A. Walsh, <i>J. Am. Chem. Soc.</i> 2021, 143 (24), 9123
 - S. Kim, S. Hood, <u>P. van Gerwen</u>, L. Whalley and A. Walsh, <i> J. Open Source Softw</i> 2020, 5 (47), 2102
 
 ### Conferences and talks 
+- Talk and poster presentation @[Ellis ML4Molecules](https://moleculediscovery.github.io/workshop2022/), Nov. 2022
 - Poster presentation @ [Psi-k 2022](https://www.psik2022.net/), August 2022
 - Poster presentation @ [WATOC 2020](https://www.cheminst.ca/conference/watoc-2020/), July 2022
 - Invited talk at @[AI4Science day](https://www.epfl.ch/research/domains/cis/center-for-intelligent-systems-cis/events/ai4science-day/), June 2022
