@@ -6,7 +6,6 @@ Highly independent, curious, eager to learn and always looking to push boundarie
 - BSc in chemistry @ Univ. of Edinburgh, Sept. 2013 - May 2017
 
 ### Publications
-- <u>P. van Gerwen</u>, M. Franke and C. Corminboeuf, 2023, In press.
 - S. Gallarati, <u>P. van Gerwen</u>, A. A. Schoepfer, R. Laplaza and C. Corminboeuf, <i>CHIMIA</i>, 2023, In press.
 - S. Gallarati, <u>P. van Gerwen</u>, R. Laplaza, S. Vela, A. Fabrizio and C. Corminboeuf, <i>Chem. Sci.</i>, 2022.
 - <u>P. van Gerwen</u>, A. Fabrizio, M. Wodrich and C. Corminboeuf, <i>Mach. Learn. Sci. Tech.</i> 2022, 3, 045005
