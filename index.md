@@ -1,4 +1,4 @@
-Highly independent, curious, eager to learn and always looking to push boundaries. Puck is in the middle of her PhD in building physics-based machine-learning models to predict properties of molecules and chemical reactions. When she's not writing code, she can usually be found on a climbing wall. She is proud to be a woman in science and technology.
+Highly independent, curious, eager to learn and always looking to push boundaries. Puck is in the penultimate year of her PhD in building physics-based machine-learning models to predict properties of molecules and chemical reactions. When she's not writing code, she can usually be found on a climbing wall. She is proud to be a woman in science and technology.
 
 ### CV 
 - PhD in chemistry @ [EPFL](https://www.epfl.ch/labs/lcmd/), started @ [Uni Basel](https://www.chemspacelab.org/), Oct. 2019 - Oct. 2024 (expected)
@@ -6,14 +6,15 @@ Highly independent, curious, eager to learn and always looking to push boundarie
 - BSc in chemistry @ Univ. of Edinburgh, Sept. 2013 - May 2017
 
 ### Publications
-- S. Gallarati, <u>P. van Gerwen</u>, A. A. Schoepfer, R. Laplaza and C. Corminboeuf, <i>CHIMIA</i>, 2023, In press.
-- S. Gallarati, <u>P. van Gerwen</u>, R. Laplaza, S. Vela, A. Fabrizio and C. Corminboeuf, <i>Chem. Sci.</i>, 2022.
+- S. Gallarati, <u>P. van Gerwen</u>, A. A. Schoepfer, R. Laplaza and C. Corminboeuf, <i>CHIMIA</i>, 2023, 77, 39
+- S. Gallarati, <u>P. van Gerwen</u>, R. Laplaza, S. Vela, A. Fabrizio and C. Corminboeuf, <i>Chem. Sci.</i>, 2022, 13, 13782
 - <u>P. van Gerwen</u>, A. Fabrizio, M. Wodrich and C. Corminboeuf, <i>Mach. Learn. Sci. Tech.</i> 2022, 3, 045005
 - R. Fabregat, <u>P. van Gerwen</u>, M. Haeberle, F. Eisenbrand and C. Corminboeuf, <i> Mach. Learn. Sci. Tech.</i> 2022, 3, 035015 
 - L. Whalley, <u>P. van Gerwen</u>, J.M. Frost, S. Kim, S.N. Hood and A. Walsh, <i>J. Am. Chem. Soc.</i> 2021, 143 (24), 9123
 - S. Kim, S. Hood, <u>P. van Gerwen</u>, L. Whalley and A. Walsh, <i> J. Open Source Softw</i> 2020, 5 (47), 2102
 
 ### Conferences and talks 
+- Poster @[Bridging length scales with machine learning, CECAM-Psi-k Research Conference](https://sites.google.com/view/cecam-psik-2023/home?authuser=0), June 2023
 - Talk and poster presentation @[Ellis ML4Molecules](https://moleculediscovery.github.io/workshop2022/), Nov. 2022
 - Poster presentation @ [Psi-k 2022](https://www.psik2022.net/), August 2022
 - Poster presentation @ [WATOC 2020](https://www.cheminst.ca/conference/watoc-2020/), July 2022
@@ -23,10 +24,12 @@ Highly independent, curious, eager to learn and always looking to push boundarie
 - Poster presentation @ [ELLIS ML4Molecules](https://moleculediscovery.github.io/workshop2021/), Dec. 2021
 
 ### Relevant activities
+- I will be doing an internship at Microsoft Research Amsterdam for the [AI4Science team](https://www.microsoft.com/en-us/research/lab/microsoft-research-ai4science/) supervised by Elise van der Pol from 1 October - 24 December 2023
 - Associate student of the [EPFL AI4Science initiative](https://www.epfl.ch/research/domains/cis/ai4science/) 
-- Organised seminars and events on machine learning in chemistry (and beyond) @ EPFL, 2021-2022 
+- Organised seminars and events on machine learning in chemistry (and beyond) @ [EPFL](https://www.epfl.ch/schools/sb/research/isic/news-events/machine-learning-seminars/), 2021-2023 
 
 ### Supervised student projects
-- Master project on benchmarking representations and methods for ML of chemical reaction properties, 2022
+- Master project on graph-based models to classify organocatalyst molecules, 2023
+- Master project on benchmarking representations and methods for ML of chemical reaction properties, 2022, see associated @[peer-reviewed workshop paper](https://moleculediscovery.github.io/workshop2022/)
 - Bachelor project on GPR of experimental reaction yields, 2022
 - Bachelor project on fragment-based approaches to machine learning of conceptual DFT descriptors, 2021
