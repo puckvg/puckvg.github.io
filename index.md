@@ -15,6 +15,7 @@ Highly independent, curious, eager to learn and always looking to push boundarie
 
 ### Conferences and talks 
 - Poster @[Bridging length scales with machine learning, CECAM-Psi-k Research Conference](https://sites.google.com/view/cecam-psik-2023/home?authuser=0), June 2023
+- Invited joint talk with Vignesh Ram Somnath (ETH Zurich) @ NCCR Catalysis Annual Meeting, March 2023
 - Talk and poster presentation @[Ellis ML4Molecules](https://moleculediscovery.github.io/workshop2022/), Nov. 2022
 - Poster presentation @ [Psi-k 2022](https://www.psik2022.net/), August 2022
 - Poster presentation @ [WATOC 2020](https://www.cheminst.ca/conference/watoc-2020/), July 2022
