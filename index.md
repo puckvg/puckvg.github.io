@@ -1,4 +1,4 @@
-Highly independent, curious, eager to learn and always looking to push boundaries. Puck is in the penultimate year of her PhD in building physics-based machine-learning models to predict properties of molecules and chemical reactions. When she's not writing code, she can usually be found on a climbing wall. She is proud to be a woman in science and technology.
+Highly independent, curious, eager to learn and always looking to push boundaries. Puck is in the final year of her PhD in building physics-based machine-learning models to predict properties of molecules and chemical reactions. She can be found at the Microsoft Research office in Amsterdam between 1st October - 24th December this year. When she's not writing code, she can usually be found on a climbing wall. She is proud to be a woman in science and technology.
 
 ### CV 
 - PhD in chemistry @ [EPFL](https://www.epfl.ch/labs/lcmd/), started @ [Uni Basel](https://www.chemspacelab.org/), Oct. 2019 - Oct. 2024 (expected)
@@ -6,12 +6,17 @@ Highly independent, curious, eager to learn and always looking to push boundarie
 - BSc in chemistry @ Univ. of Edinburgh, Sept. 2013 - May 2017
 
 ### Publications
+- <u>P. van Gerwen</u><sup>*</sup>, K. Briling<sup>*</sup>, C. Bunne, V. Ram Somnath, R. Laplaza, A. Krause, C. Corminboeuf, <i>In preparation</i>, 2023
+- S. Gallarati, <u>P. van Gerwen</u>, R. Laplaza, L. Brey, <i>In preparation</i>, 2023  
+- <u>P. van Gerwen</u>, K. Briling, Y. Calvino Alonso, M. Franke and C. Corminboeuf, <i>In submission</i>, 2023
 - S. Gallarati, <u>P. van Gerwen</u>, A. A. Schoepfer, R. Laplaza and C. Corminboeuf, <i>CHIMIA</i>, 2023, 77, 39
 - S. Gallarati, <u>P. van Gerwen</u>, R. Laplaza, S. Vela, A. Fabrizio and C. Corminboeuf, <i>Chem. Sci.</i>, 2022, 13, 13782
 - <u>P. van Gerwen</u>, A. Fabrizio, M. Wodrich and C. Corminboeuf, <i>Mach. Learn. Sci. Tech.</i> 2022, 3, 045005
-- R. Fabregat, <u>P. van Gerwen</u>, M. Haeberle, F. Eisenbrand and C. Corminboeuf, <i> Mach. Learn. Sci. Tech.</i> 2022, 3, 035015 
+- R. Fabregat<sup>*</sup>, <u>P. van Gerwen</u><sup>*</sup>, M. Haeberle, F. Eisenbrand and C. Corminboeuf, <i> Mach. Learn. Sci. Tech.</i> 2022, 3, 035015 
 - L. Whalley, <u>P. van Gerwen</u>, J.M. Frost, S. Kim, S.N. Hood and A. Walsh, <i>J. Am. Chem. Soc.</i> 2021, 143 (24), 9123
 - S. Kim, S. Hood, <u>P. van Gerwen</u>, L. Whalley and A. Walsh, <i> J. Open Source Softw</i> 2020, 5 (47), 2102
+
+<sup>*</sup> means shared first-author.
 
 ### Conferences and talks 
 - Poster @[Bridging length scales with machine learning, CECAM-Psi-k Research Conference](https://sites.google.com/view/cecam-psik-2023/home?authuser=0), June 2023
