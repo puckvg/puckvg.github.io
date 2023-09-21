@@ -6,8 +6,8 @@ Highly independent, curious, eager to learn and always looking to push boundarie
 - BSc in chemistry @ Univ. of Edinburgh, Sept. 2013 - May 2017
 
 ### Publications
-- <u>P. van Gerwen</u>,<sup>*</sup> K. Briling,<sup>*</sup> C. Bunne, V. Ram Somnath, R. Laplaza, A. Krause, C. Corminboeuf, <i>In preparation</i>, 2023
-- S. Gallarati, <u>P. van Gerwen</u>, R. Laplaza, L. Brey, <i>In preparation</i>, 2023  
+- <u>P. van Gerwen</u>,<sup>*</sup> K. Briling,<sup>*</sup> C. Bunne, V. Ram Somnath, R. Laplaza, A. Krause and C. Corminboeuf, <i>In preparation</i>, 2023
+- S. Gallarati, <u>P. van Gerwen</u>, R. Laplaza, L. Brey and C. Corminboeuf <i>In preparation</i>, 2023  
 - <u>P. van Gerwen</u>, K. Briling, Y. Calvino Alonso, M. Franke and C. Corminboeuf, <i>In submission</i>, 2023
 - S. Gallarati, <u>P. van Gerwen</u>, A. A. Schoepfer, R. Laplaza and C. Corminboeuf, <i>CHIMIA</i>, 2023, 77, 39
 - S. Gallarati, <u>P. van Gerwen</u>, R. Laplaza, S. Vela, A. Fabrizio and C. Corminboeuf, <i>Chem. Sci.</i>, 2022, 13, 13782
