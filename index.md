@@ -1,6 +1,7 @@
-Highly independent, curious, eager to learn and always looking to push boundaries. Puck is in the final year of her PhD in building physics-based machine-learning models to predict properties of molecules and chemical reactions. She can be found at the Microsoft Research office in Amsterdam between 1st October - 24th December this year. When she's not writing code, she can usually be found on a climbing wall. She is proud to be a woman in science and technology.
+Highly independent, curious, eager to learn and always looking to push boundaries. Puck is in the final year of her PhD in building physics-based machine-learning models to predict properties of molecules and chemical reactions. When she's not writing code, she can usually be found on a climbing wall. She is proud to be a woman in science and technology.
 
 ### CV 
+- Intern @ [AI4Science, Microsoft Research](https://www.microsoft.com/en-us/research/lab/microsoft-research-ai4science/), 1 Oct. - 24 Dec. 2023
 - PhD in chemistry @ [EPFL](https://www.epfl.ch/labs/lcmd/), started @ [Uni Basel](https://www.chemspacelab.org/), Oct. 2019 - Oct. 2024 (expected)
 - MSc in physics @ [Imperial College London](https://www.imperial.ac.uk/materials/research/tsm/), Oct. 2018 - Oct. 2019
 - BSc in chemistry @ Univ. of Edinburgh, Sept. 2013 - May 2017
@@ -30,7 +31,7 @@ Highly independent, curious, eager to learn and always looking to push boundarie
 - Poster presentation @ [ELLIS ML4Molecules](https://moleculediscovery.github.io/workshop2021/), Dec. 2021
 
 ### Relevant activities
-- I will be doing an internship at Microsoft Research Amsterdam for the [AI4Science team](https://www.microsoft.com/en-us/research/lab/microsoft-research-ai4science/) supervised by Elise van der Pol from 1 October - 24 December 2023
+- Mentee of the [Fix the Leaky Pipeline](https://www.fix-the-leaky-pipeline.ch/) initiative of the ETH domain
 - Associate student of the [EPFL AI4Science initiative](https://www.epfl.ch/research/domains/cis/ai4science/) 
 - Organised seminars and events on machine learning in chemistry (and beyond) @ [EPFL](https://www.epfl.ch/schools/sb/research/isic/news-events/machine-learning-seminars/), 2021-2023 
 
