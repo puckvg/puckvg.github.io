@@ -8,8 +8,8 @@ Highly independent, curious, eager to learn and always looking to push boundarie
 
 ### Publications
 - <u>P. van Gerwen</u>,<sup>*</sup> K. Briling,<sup>*</sup> C. Bunne, V. Ram Somnath, R. Laplaza, A. Krause and C. Corminboeuf, <i>In preparation</i>, 2023
-- S. Gallarati, <u>P. van Gerwen</u>, R. Laplaza, L. Brey and C. Corminboeuf <i>In preparation</i>, 2023  
-- <u>P. van Gerwen</u>, K. Briling, Y. Calvino Alonso, M. Franke and C. Corminboeuf, <i>In submission</i>, 2023
+- S. Gallarati, <u>P. van Gerwen</u>, R. Laplaza, L. Brey and C. Corminboeuf <i>In submission</i>, 2023
+- <u>P. van Gerwen</u>, K. Briling, Y. Calvino Alonso, M. Franke and C. Corminboeuf, <i>Under review</i>, 2023
 - S. Gallarati, <u>P. van Gerwen</u>, A. A. Schoepfer, R. Laplaza and C. Corminboeuf, <i>CHIMIA</i>, 2023, 77, 39
 - S. Gallarati, <u>P. van Gerwen</u>, R. Laplaza, S. Vela, A. Fabrizio and C. Corminboeuf, <i>Chem. Sci.</i>, 2022, 13, 13782
 - <u>P. van Gerwen</u>, A. Fabrizio, M. Wodrich and C. Corminboeuf, <i>Mach. Learn. Sci. Tech.</i> 2022, 3, 045005
