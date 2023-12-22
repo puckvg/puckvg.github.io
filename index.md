@@ -1,8 +1,8 @@
 Highly independent, curious, eager to learn and always looking to push boundaries. Puck is in the final year of her PhD in building machine-learning models to predict properties of molecules and chemical reactions. When she's not writing code, she can usually be found on a climbing wall. She is looking for opportunities as a machine learning researcher (academic or industry) at the interface between machine learning and molecules.
 
 ### CV 
-- Research Intern in reinforcement learning for chemical reactions @ [AI4Science, Microsoft Research](https://www.microsoft.com/en-us/research/lab/microsoft-research-ai4science/), 1 Oct. - 24 Dec. 2023
 - PhD in machine learning applied to computational chemistry @ [EPFL](https://www.epfl.ch/labs/lcmd/), started @ [Uni Basel](https://www.chemspacelab.org/), Oct. 2019 - Sep. 2024 (expected)
+- Research intern in reinforcement learning for chemical reactions @ [AI4Science, Microsoft Research](https://www.microsoft.com/en-us/research/lab/microsoft-research-ai4science/), 1 Oct. - 24 Dec. 2023
 - MSc in physics @ [Imperial College London](https://www.imperial.ac.uk/materials/research/tsm/), Oct. 2018 - Oct. 2019
 - BSc in chemistry @ Univ. of Edinburgh, Sept. 2013 - May 2017
 
