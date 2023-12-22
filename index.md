@@ -1,14 +1,15 @@
-Highly independent, curious, eager to learn and always looking to push boundaries. Puck is in the final year of her PhD in building physics-based machine-learning models to predict properties of molecules and chemical reactions. When she's not writing code, she can usually be found on a climbing wall. She is proud to be a woman in science and technology.
+Highly independent, curious, eager to learn and always looking to push boundaries. Puck is in the final year of her PhD in building machine-learning models to predict properties of molecules and chemical reactions. When she's not writing code, she can usually be found on a climbing wall. She is looking for opportunities as a machine learning researcher (academic or industry) at the interface between machine learning and molecules.
 
 ### CV 
-- Intern @ [AI4Science, Microsoft Research](https://www.microsoft.com/en-us/research/lab/microsoft-research-ai4science/), 1 Oct. - 24 Dec. 2023
-- PhD in chemistry @ [EPFL](https://www.epfl.ch/labs/lcmd/), started @ [Uni Basel](https://www.chemspacelab.org/), Oct. 2019 - Oct. 2024 (expected)
+- Research Intern in reinforcement learning for chemical reactions @ [AI4Science, Microsoft Research](https://www.microsoft.com/en-us/research/lab/microsoft-research-ai4science/), 1 Oct. - 24 Dec. 2023
+- PhD in machine learning applied to computational chemistry @ [EPFL](https://www.epfl.ch/labs/lcmd/), started @ [Uni Basel](https://www.chemspacelab.org/), Oct. 2019 - Oct. 2024 (expected)
 - MSc in physics @ [Imperial College London](https://www.imperial.ac.uk/materials/research/tsm/), Oct. 2018 - Oct. 2019
 - BSc in chemistry @ Univ. of Edinburgh, Sept. 2013 - May 2017
 
 ### Publications
-- <u>P. van Gerwen</u>,<sup>*</sup> K. Briling,<sup>*</sup> C. Bunne, V. Ram Somnath, R. Laplaza, A. Krause and C. Corminboeuf, <i>In preparation</i>, 2023
-- S. Gallarati, <u>P. van Gerwen</u>, R. Laplaza, L. Brey and C. Corminboeuf <i>In submission</i>, 2023
+- <u>P. van Gerwen</u>,<sup>*</sup> K. Briling,<sup>*</sup> C. Bunne, V. Ram Somnath, R. Laplaza, A. Krause and C. Corminboeuf, <i>In submission</i>, 2023
+- S. Gallarati, <u>P. van Gerwen</u>, R. Laplaza, L. Brey and C. Corminboeuf <i>Under review</i>, 2023
+- <u>P. van Gerwen</u>, M. Wodrich, R. Laplaza and C. Corminboeuf, <i> Mach. Learn. Sci. Tech.</i> 2023, 4, 048002
 - <u>P. van Gerwen</u>, K. Briling, Y. Calvino Alonso, M. Franke and C. Corminboeuf, <i>Under review</i>, 2023
 - S. Gallarati, <u>P. van Gerwen</u>, A. A. Schoepfer, R. Laplaza and C. Corminboeuf, <i>CHIMIA</i>, 2023, 77, 39
 - S. Gallarati, <u>P. van Gerwen</u>, R. Laplaza, S. Vela, A. Fabrizio and C. Corminboeuf, <i>Chem. Sci.</i>, 2022, 13, 13782
