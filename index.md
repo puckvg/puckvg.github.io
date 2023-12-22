@@ -2,7 +2,7 @@ Highly independent, curious, eager to learn and always looking to push boundarie
 
 ### CV 
 - Research Intern in reinforcement learning for chemical reactions @ [AI4Science, Microsoft Research](https://www.microsoft.com/en-us/research/lab/microsoft-research-ai4science/), 1 Oct. - 24 Dec. 2023
-- PhD in machine learning applied to computational chemistry @ [EPFL](https://www.epfl.ch/labs/lcmd/), started @ [Uni Basel](https://www.chemspacelab.org/), Oct. 2019 - Oct. 2024 (expected)
+- PhD in machine learning applied to computational chemistry @ [EPFL](https://www.epfl.ch/labs/lcmd/), started @ [Uni Basel](https://www.chemspacelab.org/), Oct. 2019 - Sep. 2024 (expected)
 - MSc in physics @ [Imperial College London](https://www.imperial.ac.uk/materials/research/tsm/), Oct. 2018 - Oct. 2019
 - BSc in chemistry @ Univ. of Edinburgh, Sept. 2013 - May 2017
 
