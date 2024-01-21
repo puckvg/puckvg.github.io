@@ -1,16 +1,16 @@
-Highly independent, curious, eager to learn and always looking to push boundaries. Puck is in the final year of her PhD in building machine-learning models to predict properties of molecules and chemical reactions. When she's not writing code, she can usually be found on a climbing wall. She is looking for opportunities as a machine learning researcher (academic or industry) at the interface between machine learning and molecules.
+Highly independent, curious, eager to learn and always looking to push boundaries. I am in the final year of my PhD in building machine-learning models to predict properties of molecules and chemical reactions. When not writing code, I can usually be found in the mountains. I am looking for opportunities as a machine learning researcher (academic or industry) at the interface between machine learning and molecules.
 
 ### CV 
-- PhD in machine learning applied to computational chemistry @ [EPFL](https://www.epfl.ch/labs/lcmd/), started @ [Uni Basel](https://www.chemspacelab.org/), Oct. 2019 - Sep. 2024 (expected)
+- PhD in machine learning applied to computational chemistry @ [EPFL](https://www.epfl.ch/labs/lcmd/), started @ [Uni Basel](https://www.chemspacelab.org/), Oct. 2019 - Sep. 2024 
 - Research intern in reinforcement learning for chemical reactions @ [AI4Science, Microsoft Research](https://www.microsoft.com/en-us/research/lab/microsoft-research-ai4science/), 1 Oct. - 24 Dec. 2023
 - MSc in physics @ [Imperial College London](https://www.imperial.ac.uk/materials/research/tsm/), Oct. 2018 - Oct. 2019
 - BSc in chemistry @ Univ. of Edinburgh, Sept. 2013 - May 2017
 
-### Publications
-- <u>P. van Gerwen</u>,<sup>*</sup> K. Briling,<sup>*</sup> C. Bunne, V. Ram Somnath, R. Laplaza, A. Krause and C. Corminboeuf, <i>In submission</i>, 2023
-- S. Gallarati, <u>P. van Gerwen</u>, R. Laplaza, L. Brey and C. Corminboeuf <i>Under review</i>, 2023
+### Scientific Publications
+- <u>P. van Gerwen</u>,<sup>*</sup> K. Briling,<sup>*</sup> C. Bunne, V. Ram Somnath, R. Laplaza, A. Krause and C. Corminboeuf, <i>In submission</i>, 2024
+- S. Gallarati, <u>P. van Gerwen</u>, R. Laplaza, L. Brey and C. Corminboeuf <i>Under review</i>, 2024
+- <u>P. van Gerwen</u>, K. Briling, Y. Calvino Alonso, M. Franke and C. Corminboeuf, <i>Under review</i>, 2024
 - <u>P. van Gerwen</u>, M. Wodrich, R. Laplaza and C. Corminboeuf, <i> Mach. Learn. Sci. Tech.</i> 2023, 4, 048002
-- <u>P. van Gerwen</u>, K. Briling, Y. Calvino Alonso, M. Franke and C. Corminboeuf, <i>Under review</i>, 2023
 - S. Gallarati, <u>P. van Gerwen</u>, A. A. Schoepfer, R. Laplaza and C. Corminboeuf, <i>CHIMIA</i>, 2023, 77, 39
 - S. Gallarati, <u>P. van Gerwen</u>, R. Laplaza, S. Vela, A. Fabrizio and C. Corminboeuf, <i>Chem. Sci.</i>, 2022, 13, 13782
 - <u>P. van Gerwen</u>, A. Fabrizio, M. Wodrich and C. Corminboeuf, <i>Mach. Learn. Sci. Tech.</i> 2022, 3, 045005
@@ -28,8 +28,8 @@ Highly independent, curious, eager to learn and always looking to push boundarie
 - Poster presentation @ [WATOC 2020](https://www.cheminst.ca/conference/watoc-2020/), July 2022
 - Invited talk at @[AI4Science day](https://www.epfl.ch/research/domains/cis/center-for-intelligent-systems-cis/events/ai4science-day/), June 2022
 - Poster presentation @ NCCR Catalysis Annual Meeting, June 2022
-- Poster presentation @ [AI & The Molecular World, Applied Machine Learning Days](https://appliedmldays.org/events/amld-epfl-2022/tracks/ai-the-molecular-world), March 2021
-- Poster presentation @ [ELLIS ML4Molecules](https://moleculediscovery.github.io/workshop2021/), Dec. 2021
+- Poster presentation @ [AI & The Molecular World, Applied Machine Learning Days](https://appliedmldays.org/events/amld-epfl-2022/tracks/ai-the-molecular-world), including accepted workshop mini-paper, March 2021
+- Poster presentation @ [ELLIS ML4Molecules](https://moleculediscovery.github.io/workshop2021/), including accepted workshop mini-paper, Dec. 2021
 
 ### Relevant activities
 - Mentee of the [Fix the Leaky Pipeline](https://www.fix-the-leaky-pipeline.ch/) initiative of the ETH domain
