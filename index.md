@@ -21,6 +21,7 @@ Highly independent, curious, eager to learn and always looking to push boundarie
 <sup>*</sup> means shared first-author.
 
 ### Conferences and talks 
+- Invited talk @ [M2D2, Valence Labs](https://portal.valencelabs.com/m2d2), April 2024
 - Poster @[Bridging length scales with machine learning, CECAM-Psi-k Research Conference](https://sites.google.com/view/cecam-psik-2023/home?authuser=0), June 2023
 - Invited joint talk with Vignesh Ram Somnath (ETH Zurich) @ NCCR Catalysis Annual Meeting, March 2023
 - Talk and poster presentation @[Ellis ML4Molecules](https://moleculediscovery.github.io/workshop2022/), Nov. 2022
