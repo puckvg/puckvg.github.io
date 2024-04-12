@@ -8,7 +8,7 @@ Highly independent, curious, eager to learn and always looking to push boundarie
 
 ### Scientific Publications
 - <u>P. van Gerwen</u>,<sup>*</sup> K. Briling,<sup>*</sup> C. Bunne, V. Ram Somnath, R. Laplaza, A. Krause and C. Corminboeuf, <i>Under review</i>, 2024
-- <u>P. van Gerwen</u>, K. Briling, Y. Calvino Alonso, M. Franke and C. Corminboeuf, <i>Under review</i>, 2024
+- <u>P. van Gerwen</u>, K. Briling, Y. Calvino Alonso, M. Franke and C. Corminboeuf, <i>Dig. Discov.</i>, 2024
 - S. Gallarati, <u>P. van Gerwen</u>, R. Laplaza, L. Brey and C. Corminboeuf, <i>Chem. Sci.</i>, 2024
 - <u>P. van Gerwen</u>, M. Wodrich, R. Laplaza and C. Corminboeuf, <i> Mach. Learn. Sci. Tech.</i> 2023, 4, 048002
 - S. Gallarati, <u>P. van Gerwen</u>, A. A. Schoepfer, R. Laplaza and C. Corminboeuf, <i>CHIMIA</i>, 2023, 77, 39
@@ -33,8 +33,9 @@ Highly independent, curious, eager to learn and always looking to push boundarie
 - Poster presentation @ [ELLIS ML4Molecules](https://moleculediscovery.github.io/workshop2021/), including accepted workshop mini-paper, Dec. 2021
 
 ### Relevant activities
-- Mentee of the [Fix the Leaky Pipeline](https://www.fix-the-leaky-pipeline.ch/) initiative of the ETH domain
+- Co-organiser of the [ML4MS workshop](https://www.ml4lms.bio/) at ICML 2024, July 2024
 - Associate student of the [EPFL AI4Science initiative](https://www.epfl.ch/research/domains/cis/ai4science/) 
+- Mentee of the [Fix the Leaky Pipeline](https://www.fix-the-leaky-pipeline.ch/), 2023-2024
 - Organised seminars and events on machine learning in chemistry (and beyond) @ [EPFL](https://www.epfl.ch/schools/sb/research/isic/news-events/machine-learning-seminars/), 2021-2023 
 
 ### Supervised student projects
