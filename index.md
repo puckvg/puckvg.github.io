@@ -34,7 +34,7 @@ Highly independent, curious, eager to learn and always looking to push boundarie
 
 ### Relevant activities
 - Co-organiser of the [ML4MS workshop](https://www.ml4lms.bio/) at ICML 2024, July 2024
-- Associate student of the [EPFL AI4Science initiative](https://www.epfl.ch/research/domains/cis/ai4science/) 
+- Associate student of the [EPFL AI4Science initiative](https://www.epfl.ch/research/domains/cis/ai4science/), 2023-present 
 - Mentee of the [Fix the Leaky Pipeline](https://www.fix-the-leaky-pipeline.ch/), 2023-2024
 - Organised seminars and events on machine learning in chemistry (and beyond) @ [EPFL](https://www.epfl.ch/schools/sb/research/isic/news-events/machine-learning-seminars/), 2021-2023 
 
