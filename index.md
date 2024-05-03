@@ -1,5 +1,5 @@
 I am passionate about the interface between molecules and machine learning: a fascinating field that encourages creative, interdisciplinary and fast-paced research. I am in the final year of my PhD in incorporating physics and chemistry knowledge into ML models to predict properties of molecules and chemical reactions. You can find a video of a talk I gave in April [here](https://www.youtube.com/watch?v=ikHuvC2LYuE), in which I discuss recent work!
-I am looking for opportunities as a machine learning researcher (academic or industry) at the interface between machine learning and molecules.
+I am looking for opportunities (academic or industry) at the interface between machine learning and molecules.
 
 ### Academic CV
 - PhD in machine learning applied to computational chemistry @ [EPFL](https://www.epfl.ch/labs/lcmd/), started @ [Uni Basel](https://www.chemspacelab.org/), Oct. 2019 - Sep. 2024 
