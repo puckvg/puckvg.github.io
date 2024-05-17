@@ -22,6 +22,7 @@ I am looking for opportunities (academic or industry) at the interface between m
 <sup>*</sup> means shared first-author.
 
 ### Conferences and talks 
+- Contributed talk @ [Machine Learning in Chemical and Materials Sciences 2024](https://mlcm-24.github.io/), May 2024
 - Invited talk @ [M2D2, Valence Labs](https://portal.valencelabs.com/m2d2), April 2024
 - Poster @[Bridging length scales with machine learning, CECAM-Psi-k Research Conference](https://sites.google.com/view/cecam-psik-2023/home?authuser=0), June 2023
 - Invited joint talk with Vignesh Ram Somnath (ETH Zurich) @ NCCR Catalysis Annual Meeting, March 2023
@@ -34,7 +35,7 @@ I am looking for opportunities (academic or industry) at the interface between m
 - Poster presentation @ [ELLIS ML4Molecules](https://moleculediscovery.github.io/workshop2021/), including accepted workshop mini-paper, Dec. 2021
 
 ### Relevant activities
-- Co-organiser of the [ML4MS workshop](https://www.ml4lms.bio/) at ICML 2024, July 2024
+- Co-organiser of the [ML4LMS workshop](https://www.ml4lms.bio/) at ICML 2024, July 2024
 - Associate student of the [EPFL AI4Science initiative](https://www.epfl.ch/research/domains/cis/ai4science/), 2023-present 
 - Mentee of the [Fix the Leaky Pipeline](https://www.fix-the-leaky-pipeline.ch/), 2023-2024
 - Organised seminars and events on machine learning in chemistry (and beyond) @ [EPFL](https://www.epfl.ch/schools/sb/research/isic/news-events/machine-learning-seminars/), 2021-2023 
