@@ -8,7 +8,7 @@ I am looking for opportunities (academic or industry) at the interface between m
 - BSc in chemistry @ Univ. of Edinburgh, Sept. 2013 - May 2017
 
 ### Scientific Publications
-- <u>P. van Gerwen</u>,<sup>*</sup> K. Briling,<sup>*</sup> C. Bunne, V. Ram Somnath, R. Laplaza, A. Krause and C. Corminboeuf, <i>Under review</i>, 2024
+- <u>P. van Gerwen</u>,<sup>*</sup> K. Briling,<sup>*</sup> C. Bunne, V. Ram Somnath, R. Laplaza, A. Krause and C. Corminboeuf, <i>In preparation at J. Chem. Inf. Model.</i>, 2024
 - <u>P. van Gerwen</u>, K. Briling, Y. Calvino Alonso, M. Franke and C. Corminboeuf, <i>Dig. Discov.</i>, 2024
 - S. Gallarati, <u>P. van Gerwen</u>, R. Laplaza, L. Brey and C. Corminboeuf, <i>Chem. Sci.</i>, 2024
 - <u>P. van Gerwen</u>, M. Wodrich, R. Laplaza and C. Corminboeuf, <i> Mach. Learn. Sci. Tech.</i> 2023, 4, 048002
@@ -22,6 +22,7 @@ I am looking for opportunities (academic or industry) at the interface between m
 <sup>*</sup> means shared first-author.
 
 ### Conferences and talks 
+- Poster presentation @ NCCR Catalysis Annual Meeting, June 2024
 - Contributed talk @ [Machine Learning in Chemical and Materials Sciences 2024](https://mlcm-24.github.io/), May 2024
 - Invited talk @ [M2D2, Valence Labs](https://portal.valencelabs.com/m2d2), April 2024
 - Poster @[Bridging length scales with machine learning, CECAM-Psi-k Research Conference](https://sites.google.com/view/cecam-psik-2023/home?authuser=0), June 2023
