@@ -32,7 +32,7 @@ I am looking for opportunities (academic or industry) at the interface between m
 - Poster presentation @ [WATOC 2020](https://www.cheminst.ca/conference/watoc-2020/), July 2022
 - Invited talk at @[AI4Science day](https://www.epfl.ch/research/domains/cis/center-for-intelligent-systems-cis/events/ai4science-day/), June 2022
 - Poster presentation @ NCCR Catalysis Annual Meeting, June 2022
-- Poster presentation @ [AI & The Molecular World, Applied Machine Learning Days](https://appliedmldays.org/events/amld-epfl-2022/tracks/ai-the-molecular-world), including accepted workshop mini-paper, March 2021
+- Poster presentation @ [AI & The Molecular World, Applied Machine Learning Days](https://appliedmldays.org/events/amld-epfl-2022/tracks/ai-the-molecular-world), March 2021
 - Poster presentation @ [ELLIS ML4Molecules](https://moleculediscovery.github.io/workshop2021/), including accepted workshop mini-paper, Dec. 2021
 
 ### Relevant activities
