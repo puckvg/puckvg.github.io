@@ -1,8 +1,8 @@
 I am passionate about the interface between molecules and machine learning: a fascinating field that encourages creative, interdisciplinary and fast-paced research. I am currently working at Microsoft Azure Quantum, integrating machine learning models to further accelerate the platform.
 
 ### Selected CV
-- Machine learning engineer @ [Microsoft Azure Quantum](https://quantum.microsoft.com/), 20. Jan 2025 - 
-- Research intern in reinforcement learning for chemical reactions @ [AI4Science, Microsoft Research](https://www.microsoft.com/en-us/research/lab/microsoft-research-ai4science/), 1 Oct. - 24 Dec. 2023
+- Machine learning engineer @ [Microsoft Azure Quantum](https://quantum.microsoft.com/), Jan 2025 - 
+- Research intern in reinforcement learning for chemical reactions @ [AI4Science, Microsoft Research](https://www.microsoft.com/en-us/research/lab/microsoft-research-ai4science/), Oct. - Dec. 2023
 - PhD in machine learning applied to computational chemistry @ [EPFL](https://www.epfl.ch/labs/lcmd/), Oct. 2019 - Sep. 2024 
 - MSc in physics @ [Imperial College London](https://www.imperial.ac.uk/materials/research/tsm/), Oct. 2018 - Oct. 2019
 
