@@ -1,14 +1,14 @@
-I am passionate about the interface between molecules and machine learning: a fascinating field that encourages creative, interdisciplinary and fast-paced research. I am in the final year of my PhD in incorporating physics and chemistry knowledge into ML models to predict properties of molecules and chemical reactions. You can find a video of a talk I gave in April [here](https://www.youtube.com/watch?v=ikHuvC2LYuE), in which I discuss recent work!
-I am looking for opportunities (academic or industry) at the interface between machine learning and molecules.
+I am passionate about the interface between molecules and machine learning: a fascinating field that encourages creative, interdisciplinary and fast-paced research. I am currently working at Microsoft Azure Quantum, integrating machine learning models to further accelerate the platform.
 
-### Academic CV
-- PhD in machine learning applied to computational chemistry @ [EPFL](https://www.epfl.ch/labs/lcmd/), started @ [Uni Basel](https://www.chemspacelab.org/), Oct. 2019 - Sep. 2024 
+### Selected CV
+- Machine learning engineer @ [Microsoft Azure Quantum](https://quantum.microsoft.com/).
 - Research intern in reinforcement learning for chemical reactions @ [AI4Science, Microsoft Research](https://www.microsoft.com/en-us/research/lab/microsoft-research-ai4science/), 1 Oct. - 24 Dec. 2023
+- PhD in machine learning applied to computational chemistry @ [EPFL](https://www.epfl.ch/labs/lcmd/), Oct. 2019 - Sep. 2024 
 - MSc in physics @ [Imperial College London](https://www.imperial.ac.uk/materials/research/tsm/), Oct. 2018 - Oct. 2019
-- BSc in chemistry @ Univ. of Edinburgh, Sept. 2013 - May 2017
 
 ### Scientific Publications
-- <u>P. van Gerwen</u>,<sup>*</sup> K. Briling,<sup>*</sup> C. Bunne, V. Ram Somnath, R. Laplaza, A. Krause and C. Corminboeuf, <i>In preparation at J. Chem. Inf. Model.</i>, 2024
+- M. Haeberle,<sup>*</sup> <u>P. van Gerwen</u><sup>*</sup>, R. Laplaza, K. Briling, J. Weinreich, F. Eisenbrand and C. Cominboeuf, <i>Under review at Mach. Learn.: Sci. Technol.</i>, 2025
+-  <u>P. van Gerwen</u>,<sup>*</sup> K. Briling,<sup>*</sup> C. Bunne, V. Ram Somnath, R. Laplaza, A. Krause and C. Corminboeuf, <i>J. Chem. Inf. Model.</i>, 2024
 - <u>P. van Gerwen</u>, K. Briling, Y. Calvino Alonso, M. Franke and C. Corminboeuf, <i>Dig. Discov.</i>, 2024
 - S. Gallarati, <u>P. van Gerwen</u>, R. Laplaza, L. Brey and C. Corminboeuf, <i>Chem. Sci.</i>, 2024
 - <u>P. van Gerwen</u>, M. Wodrich, R. Laplaza and C. Corminboeuf, <i> Mach. Learn. Sci. Tech.</i> 2023, 4, 048002
