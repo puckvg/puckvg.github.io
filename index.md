@@ -1,13 +1,13 @@
-I am passionate about the interface between molecules and machine learning: a fascinating field that encourages creative, interdisciplinary and fast-paced research. I am currently working at Microsoft Azure Quantum, integrating machine learning models to further accelerate the platform.
+I am passionate about the interface between molecules and machine learning: a fascinating field that encourages creative, interdisciplinary and fast-paced research. I am currently working at Microsoft Quantum, integrating machine learning models to further accelerate the platform.
 
 ### Selected CV
-- Machine learning engineer @ [Microsoft Azure Quantum](https://quantum.microsoft.com/), Jan 2025 - 
+- Machine learning engineer @ [Microsoft Azure Quantum](https://quantum.microsoft.com/), Jan 2025 - present
 - Research intern in reinforcement learning for chemical reactions @ [AI4Science, Microsoft Research](https://www.microsoft.com/en-us/research/lab/microsoft-research-ai4science/), Oct. - Dec. 2023
 - PhD in machine learning applied to computational chemistry @ [EPFL](https://www.epfl.ch/labs/lcmd/), Oct. 2019 - Sep. 2024 
 - MSc in physics @ [Imperial College London](https://www.imperial.ac.uk/materials/research/tsm/), Oct. 2018 - Oct. 2019
 
 ### Scientific Publications
-- M. Haeberle,<sup>*</sup> <u>P. van Gerwen</u><sup>*</sup>, R. Laplaza, K. Briling, J. Weinreich, F. Eisenbrand and C. Cominboeuf, <i>Under review at Mach. Learn.: Sci. Technol.</i>, 2025
+- M. Haeberle,<sup>*</sup> <u>P. van Gerwen</u><sup>*</sup>, R. Laplaza, K. Briling, J. Weinreich, F. Eisenbrand and C. Cominboeuf, <i> Mach. Learn.: Sci. Technol.</i>, 2025
 -  <u>P. van Gerwen</u>,<sup>*</sup> K. Briling,<sup>*</sup> C. Bunne, V. Ram Somnath, R. Laplaza, A. Krause and C. Corminboeuf, <i>J. Chem. Inf. Model.</i>, 2024
 - <u>P. van Gerwen</u>, K. Briling, Y. Calvino Alonso, M. Franke and C. Corminboeuf, <i>Dig. Discov.</i>, 2024
 - S. Gallarati, <u>P. van Gerwen</u>, R. Laplaza, L. Brey and C. Corminboeuf, <i>Chem. Sci.</i>, 2024
@@ -37,12 +37,12 @@ I am passionate about the interface between molecules and machine learning: a fa
 
 ### Relevant activities
 - Co-organiser of the [ML4LMS workshop](https://www.ml4lms.bio/) at ICML 2024, July 2024
-- Associate student of the [EPFL AI4Science initiative](https://www.epfl.ch/research/domains/cis/ai4science/), 2023-present 
+- Associate student of the [EPFL AI4Science initiative](https://www.epfl.ch/research/domains/cis/ai4science/), 2023-2025
 - Mentee of the [Fix the Leaky Pipeline](https://www.fix-the-leaky-pipeline.ch/), 2023-2024
 - Organised seminars and events on machine learning in chemistry (and beyond) @ [EPFL](https://www.epfl.ch/schools/sb/research/isic/news-events/machine-learning-seminars/), 2021-2023 
 
 ### Supervised student projects
 - Master project on graph-based models to classify organocatalyst molecules, 2023
 - Master project on benchmarking representations and methods for ML of chemical reaction properties, 2022, see associated @[peer-reviewed workshop paper](https://moleculediscovery.github.io/workshop2022/)
-- Bachelor project on GPR of experimental reaction yields, 2022
-- Bachelor project on fragment-based approaches to machine learning of conceptual DFT descriptors, 2021
+- Bachelor project on gaussian process regression of experimental reaction yields, 2022
+- Bachelor project on machine learning of conceptual DFT descriptors, 2021
