@@ -8,17 +8,18 @@ I am passionate about the interface between molecules and machine learning: a fa
 - BSc in materials chemistry @ University of Edinburgh (1st class honours & BSc project prize), Sep. 2013 - June 2017
 
 ### Scientific Publications
-1. M. Haeberle,<sup>*</sup> <u>P. van Gerwen</u><sup>*</sup>, R. Laplaza, K. Briling, J. Weinreich, F. Eisenbrand and C. Cominboeuf, <i> Mach. Learn. Sci. Tech.</i>, 2025
-2. <u>P. van Gerwen</u>,<sup>*</sup> K. Briling,<sup>*</sup> C. Bunne, V. Ram Somnath, R. Laplaza, A. Krause and C. Corminboeuf, <i>J. Chem. Inf. Model.</i>, 2024
-3. <u>P. van Gerwen</u>, K. Briling, Y. Calvino Alonso, M. Franke and C. Corminboeuf, <i>Dig. Discov.</i>, 2024
-4. S. Gallarati, <u>P. van Gerwen</u>, R. Laplaza, L. Brey and C. Corminboeuf, <i>Chem. Sci.</i>, 2024
-5. <u>P. van Gerwen</u>, M. Wodrich, R. Laplaza and C. Corminboeuf, <i> Mach. Learn. Sci. Tech.</i> 2023, 4, 048002
-6. S. Gallarati, <u>P. van Gerwen</u>, A. A. Schoepfer, R. Laplaza and C. Corminboeuf, <i>CHIMIA</i>, 2023, 77, 39
-7. S. Gallarati, <u>P. van Gerwen</u>, R. Laplaza, S. Vela, A. Fabrizio and C. Corminboeuf, <i>Chem. Sci.</i>, 2022, 13, 13782
-8. <u>P. van Gerwen</u>, A. Fabrizio, M. Wodrich and C. Corminboeuf, <i>Mach. Learn. Sci. Tech.</i> 2022, 3, 045005
-9. R. Fabregat,<sup>*</sup> <u>P. van Gerwen</u>,<sup>*</sup> M. Haeberle, F. Eisenbrand and C. Corminboeuf, <i> Mach. Learn. Sci. Tech.</i> 2022, 3, 035015
-10. L. Whalley, <u>P. van Gerwen</u>, J.M. Frost, S. Kim, S.N. Hood and A. Walsh, <i>J. Am. Chem. Soc.</i> 2021, 143 (24), 9123
-11. S. Kim, S. Hood, <u>P. van Gerwen</u>, L. Whalley and A. Walsh, <i> J. Open Source Softw</i> 2020, 5 (47), 2102
+Check my google scholar profile [here](https://scholar.google.com/citations?user=sU_tjS0AAAAJ&hl=de&oi=ao).
+
+1. M. Haeberle,<sup>*</sup> <u>P. van Gerwen</u><sup>*</sup>, R. Laplaza, K. Briling, J. Weinreich, F. Eisenbrand and C. Cominboeuf, [<i> Mach. Learn. Sci. Tech.</i>](https://iopscience.iop.org/article/10.1088/2632-2153/adcd38/meta), 2025
+2. <u>P. van Gerwen</u>,<sup>*</sup> K. Briling,<sup>*</sup> C. Bunne, V. Ram Somnath, R. Laplaza, A. Krause and C. Corminboeuf, [<i>J. Chem. Inf. Model.</i>](https://pubs.acs.org/doi/full/10.1021/acs.jcim.4c00104), 2024
+3. <u>P. van Gerwen</u>, K. Briling, Y. Calvino Alonso, M. Franke and C. Corminboeuf, [<i>Dig. Discov.</i>](https://pubs.rsc.org/en/content/articlehtml/2024/dd/d3dd00175j), 2024
+4. S. Gallarati, <u>P. van Gerwen</u>, R. Laplaza, L. Brey and C. Corminboeuf, [<i>Chem. Sci.</i>](https://pubs.rsc.org/en/content/articlehtml/2024/sc/d3sc06208b), 2024
+5. S. Gallarati, <u>P. van Gerwen</u>, A. A. Schoepfer, R. Laplaza and C. Corminboeuf, [<i>CHIMIA</i>](https://www.chimia.ch/chimia/article/view/2023_39), 2023, 77, 39
+6. S. Gallarati, <u>P. van Gerwen</u>, R. Laplaza, S. Vela, A. Fabrizio and C. Corminboeuf, [<i>Chem. Sci.</i>](https://pubs.rsc.org/en/content/articlehtml/2022/sc/d2sc04251g), 2022, 13, 13782
+7. <u>P. van Gerwen</u>, A. Fabrizio, M. Wodrich and C. Corminboeuf, [<i>Mach. Learn. Sci. Tech.</i>](https://iopscience.iop.org/article/10.1088/2632-2153/ac8f1a/meta) 2022, 3, 045005
+8. R. Fabregat,<sup>*</sup> <u>P. van Gerwen</u>,<sup>*</sup> M. Haeberle, F. Eisenbrand and C. Corminboeuf, [<i> Mach. Learn. Sci. Tech.</i>](https://iopscience.iop.org/article/10.1088/2632-2153/ac8e4f/meta) 2022, 3, 035015
+9. L. Whalley, <u>P. van Gerwen</u>, J.M. Frost, S. Kim, S.N. Hood and A. Walsh, [<i>J. Am. Chem. Soc.</i>](https://pubs.acs.org/doi/full/10.1021/jacs.1c03064) 2021, 143 (24), 9123
+10. S. Kim, S. Hood, <u>P. van Gerwen</u>, L. Whalley and A. Walsh, [<i> J. Open Source Softw.</i>](https://joss.theoj.org/papers/10.21105/joss.02102.pdf) 2020, 5 (47), 2102
 
 <sup>*</sup> means shared first-author.
 
