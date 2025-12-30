@@ -3,9 +3,9 @@ I am passionate about the interface between molecules and machine learning: a fa
 ### Selected CV
 - Machine learning engineer @ [Microsoft Quantum](https://quantum.microsoft.com/), Jan 2025 - present
 - Research intern in reinforcement learning for chemical reactions @ [AI4Science, Microsoft Research](https://www.microsoft.com/en-us/research/lab/microsoft-research-ai4science/), Oct. - Dec. 2023
-- PhD in machine learning applied to computational chemistry @ [EPFL](https://www.epfl.ch/labs/lcmd/), Oct. 2019 - Sep. 2024 
-- MSc in physics @ [Imperial College London](https://www.imperial.ac.uk/materials/research/tsm/), Oct. 2018 - Oct. 2019
-- BSc in materials chemistry @ University of Edinburgh, Sep. 2013 - June 2017
+- PhD in machine learning applied to computational chemistry @ [EPFL](https://www.epfl.ch/labs/lcmd/) (nominated for ISIC prize), Oct. 2019 - Sep. 2024 
+- MSc in physics @ [Imperial College London](https://www.imperial.ac.uk/materials/research/tsm/) (Distinction), Oct. 2018 - Oct. 2019
+- BSc in materials chemistry @ University of Edinburgh (1st class honours & BSc project prize), Sep. 2013 - June 2017
 
 ### Scientific Publications
 1. M. Haeberle,<sup>*</sup> <u>P. van Gerwen</u><sup>*</sup>, R. Laplaza, K. Briling, J. Weinreich, F. Eisenbrand and C. Cominboeuf, <i> Mach. Learn. Sci. Tech.</i>, 2025
