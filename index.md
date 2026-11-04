@@ -2,9 +2,9 @@ I am passionate about the interface between molecules and machine learning: a fa
 I live in Oslo, Norway and have previously lived in Switzerland and the UK. I am a Dutch/Swiss/UK national.
 
 ### Selected CV
-- Machine learning scientist @ [Entalpic](https://entalpic.ai), Nov 2026 - present
-- Machine learning engineer/scientist @ [Microsoft Quantum](https://quantum.microsoft.com/), Jan 2025 - Oct 2026
-- Research intern @ [AI4Science, Microsoft Research](https://www.microsoft.com/en-us/research/lab/microsoft-research-ai4science/), Oct. - Dec. 2023
+- Machine learning scientist @ [Entalpic](https://entalpic.ai) (ML & atomistic science stack for materials discovery), Nov 2026 - present
+- Machine learning engineer/scientist @ [Microsoft Quantum](https://quantum.microsoft.com/) (MLIPs, reaction networks, quantum chemistry and quantum computing), Jan 2025 - Oct 2026
+- Research intern @ [AI4Science, Microsoft Research](https://www.microsoft.com/en-us/research/lab/microsoft-research-ai4science/) (RL for reactions), Oct. - Dec. 2023
 - PhD in ML/computational chemistry @ [EPFL](https://www.epfl.ch/labs/lcmd/) (nominated for ISIC prize), Oct. 2019 - Sep. 2024 
 - MSc in physics @ [Imperial College London](https://www.imperial.ac.uk/materials/research/tsm/) (Distinction), Oct. 2018 - Oct. 2019
 - BSc in materials chemistry @ University of Edinburgh (1st class honours & BSc project prize), Sep. 2013 - June 2017
