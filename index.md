@@ -1,9 +1,11 @@
-I am passionate about the interface between molecules and machine learning: a fascinating field that encourages creative, interdisciplinary and fast-paced research. I am currently working at Microsoft Quantum, integrating machine learning models to further accelerate the platform.
+I am passionate about the interface between molecules and machine learning: a fascinating field that encourages creative, interdisciplinary and fast-paced research. I am currently working as an ML scientist at Entalpic, a deep tech startup focused on materials discovery.
+I live in Oslo, Norway and have previously lived in Switzerland and the UK. I am a Dutch/Swiss/UK national.
 
 ### Selected CV
-- Machine learning engineer @ [Microsoft Quantum](https://quantum.microsoft.com/), Jan 2025 - present
-- Research intern in reinforcement learning for chemical reactions @ [AI4Science, Microsoft Research](https://www.microsoft.com/en-us/research/lab/microsoft-research-ai4science/), Oct. - Dec. 2023
-- PhD in machine learning applied to computational chemistry @ [EPFL](https://www.epfl.ch/labs/lcmd/) (nominated for ISIC prize), Oct. 2019 - Sep. 2024 
+- Machine learning scientist @ [Entalpic](https://entalpic.ai), Nov 2026 - present
+- Machine learning engineer/scientist @ [Microsoft Quantum](https://quantum.microsoft.com/), Jan 2025 - Oct 2026
+- Research intern @ [AI4Science, Microsoft Research](https://www.microsoft.com/en-us/research/lab/microsoft-research-ai4science/), Oct. - Dec. 2023
+- PhD in ML/computational chemistry @ [EPFL](https://www.epfl.ch/labs/lcmd/) (nominated for ISIC prize), Oct. 2019 - Sep. 2024 
 - MSc in physics @ [Imperial College London](https://www.imperial.ac.uk/materials/research/tsm/) (Distinction), Oct. 2018 - Oct. 2019
 - BSc in materials chemistry @ University of Edinburgh (1st class honours & BSc project prize), Sep. 2013 - June 2017
 
@@ -23,6 +25,11 @@ Check my google scholar profile [here](https://scholar.google.com/citations?user
 
 <sup>*</sup> means shared first-author.
 
+### Fun facts 
+- I love to get outdoors - particularly rock climbing - as well as on a yoga mat
+- I am an avid reader of good literature - Olga Tokarczuk is my favourite author 
+- I love to travel especially for scuba diving
+  
 ### Conferences and talks 
 - Poster presentation @ NCCR Catalysis Annual Meeting, June 2024
 - Contributed talk @ [Machine Learning in Chemical and Materials Sciences 2024](https://mlcm-24.github.io/), May 2024
@@ -48,7 +55,3 @@ Check my google scholar profile [here](https://scholar.google.com/citations?user
 - Master project on benchmarking representations and methods for ML of chemical reaction properties, 2022, see associated @[peer-reviewed workshop paper](https://moleculediscovery.github.io/workshop2022/)
 - Bachelor project on gaussian process regression of experimental reaction yields, 2022
 - Bachelor project on machine learning of conceptual DFT descriptors, 2021
-
-### Fun facts 
-- I love to get outdoors - particularly rock climbing - as well as on a yoga mat
-- I am an avid reader of good literature - Olga Tokarczuk is my favourite author 
